@@ -1,0 +1,197 @@
+* {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    
+    
+}
+
+/*  */
+
+
+
+
+
+
+
+
+
+
+ 
+
+.b-example-divider {
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.form-control-dark {
+    color: #fff;
+    background-color: var(--bs-dark);
+    border-color: var(--bs-gray);
+}
+
+.form-control-dark:focus {
+    color: #fff;
+    background-color: var(--bs-dark);
+    border-color: #fff;
+    box-shadow: 0 0 0 .25rem rgba(255, 255, 255, .25);
+}
+
+.bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+}
+
+.text-small {
+    font-size: 85%;
+}
+
+.dropdown-toggle {
+    outline: 0;
+}
+ 
+/* .a{
+    text-decoration: none;
+} */
+
+
+
+
+/* .header{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+    background-color:black;
+    text-align:center;
+}
+
+
+
+.bg-dark {
+    background: transparent !important;
+}
+
+.bg-dark.scrolled {
+    background: #000 !important;
+}
+
+.logo img {
+    width: 70px;
+    padding: 0%;
+    margin: 0%;
+} */
+
+/*  */
+
+.card {
+    box-shadow: 5px 5px 10px black;
+}
+
+
+ul li a.active::after,
+ul li a::after {
+    content: "";
+    display: block;
+    height: 2px;
+    background-color: aqua;
+    margin-top: 2px;
+    transition: width .5s;
+    -webkit-transition: width .5s;
+    -moz-transition: width .5s;
+    -ms-transition: width .5s;
+    -o-transition: width .5s;
+}
+
+
+ul li a.active::after {
+    width: 100%;
+}
+
+ul li a::after {
+    width: 0;
+}
+
+ul li a:hover::after {
+    width: 100%;
+}
+
+#login{
+    margin-left: 100px;
+    
+}
+
+/*               body            */
+
+.img1 img{
+    width: 300px;
+    
+}
+
+.col{
+    padding-top: 50px;
+}
+
+
+.ro {
+    text-align: center;
+    padding-top: 150px;
+    border-bottom:solid 3px;
+}
+
+
+img{
+    max-width: 100%;
+}
+
+
+
+
+
+
+
+/* fffffffffffffffffffff? */
+
+/* .d1:hover {
+    background-image: url(../img/p1.jpg);
+    background-size: cover;
+}
+
+.im {
+    width: 300px;
+    margin: 20px;
+
+}
+
+.im:hover {
+    transform: scale(1.2);
+}
+
+.cont {
+    width: 80%;
+    margin: auto;
+    clear: both;
+    margin-top: 50px;
+} */
+
+
+
+
+
+
+.b-example-divider {
+    height: 3rem;
+    background-color: rgba(0, 0, 0, .1);
+    border: solid rgba(0, 0, 0, .15);
+    border-width: 1px 0;
+    box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+}
